@@ -2,4 +2,4 @@
 
 game.
 
-![til](gif\gameplay.gif)
+![me](https://github.com/Thudles/Dragged-Abyss/edit/main/gif/gameplay.gif)
