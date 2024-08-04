@@ -2,4 +2,4 @@
 
 game.
 
-![Demo](https://github.com/Thudles/Dragged-Abyss/main/gif/gameplay.gif)
+![Demo](https://github.com/Thudles/Dragged-Abyss/blob/main/gif/gameplay.gif)
