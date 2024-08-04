@@ -2,4 +2,4 @@
 
 game.
 
-![Demo](gif\gameplay.gif)
+![](gif\gameplay.gif)
