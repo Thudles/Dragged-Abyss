@@ -1,3 +1,3 @@
-﻿# Dragged Abyss
+# CHIP-8 Emulator
 
-![Demo](gif\gameplay.gif)
+A simple emulator for the CHIP-8.
